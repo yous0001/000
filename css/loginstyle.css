@@ -1,0 +1,32 @@
+
+body{
+    background-color: #24353F;
+}
+.login-box{
+    box-shadow: black -5px 2px 54px -9px;
+}
+.login-box h1{
+    
+    font-size: 2.5rem;
+    font-weight: 500;
+}
+.login-box a:hover{
+    text-decoration: underline !important;
+}
+.form-control{
+    background-color: transparent !important;
+    color: rgb(255, 255, 255) !important;
+}
+
+.form-control:focus {
+    box-shadow: none;
+}
+.form-control::placeholder{
+    color: #CED4DA;
+}
+.btn:hover{
+    color: white;
+}
+.container{
+    width: 75%;
+}
