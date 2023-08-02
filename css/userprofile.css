@@ -1,0 +1,17 @@
+body{
+    background-color: #24353F;
+}
+nav.navbar{
+    background-color: #24353F !important;
+    box-shadow: black -5px 2px 54px -9px;
+
+}
+.nav-link{
+    color: #929A9F;
+}
+.nav-link:hover{
+    color: white;
+}
+.welcome-box{
+    box-shadow: black -5px 2px 54px -9px;
+}
